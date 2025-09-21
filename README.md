@@ -5,8 +5,7 @@ A personal finance management web application that helps users track and manage 
 - **Add and Manage Funds:** Record income, expenses, and transactions.  
 - **Categorization:** Organize transactions into categories for better tracking.  
 - **CRUD Operations:** Create, Read, Update, and Delete financial records.  
-- **Local Storage:** Saves all data locally; no backend required for basic use.  
-- **Optional Backend:** Can be extended with FastAPI and SQLAlchemy for user-specific storage.
+- **Local Storage:** Saves all data locally; no backend required for basic use.
 
 ## Tech Stack
 - **Frontend/UI:** React, JS, CSS
@@ -29,5 +28,6 @@ A: No, the app works fully with local storage. Backend support is optional for m
 
 ## Author
 @SomrimaSaha
+
 
 
