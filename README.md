@@ -9,7 +9,7 @@ A personal finance management web application that helps users track and manage 
 - **Optional Backend:** Can be extended with FastAPI and SQLAlchemy for user-specific storage.
 
 ## Tech Stack
-- **Frontend/UI:** React (Vite)  
+- **Frontend/UI:** React, JS, CSS
 - **Version Control:** Git & GitHub  
 
 ## Used By
@@ -29,4 +29,5 @@ A: No, the app works fully with local storage. Backend support is optional for m
 
 ## Author
 @SomrimaSaha
+
 
