@@ -1,6 +1,9 @@
 # Fundex
 A personal finance management web application that helps users track and manage their funds efficiently.
 
+## Demo  
+- [Demo Link](https://drive.google.com/file/d/1wzTGQ0JNgmWYiih5VCEs_Dqp2ylqxk4g/view?usp=sharing)  
+
 ## Features
 - **Add and Manage Funds:** Record income, expenses, and transactions.  
 - **Categorization:** Organize transactions into categories for better tracking.  
@@ -28,6 +31,7 @@ A: No, the app works fully with local storage. Backend support is optional for m
 
 ## Author
 @SomrimaSaha
+
 
 
 
