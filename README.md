@@ -30,7 +30,8 @@ A: Yes. You can assign each transaction to a category like Food, Travel, or Sala
 A: No, the app works fully with local storage. Backend support is optional for multi-user functionality.  
 
 ## Author
-@SomrimaSaha
+- [@SomrimaSaha](https://github.com/somrima-09) 
+
 
 
 
